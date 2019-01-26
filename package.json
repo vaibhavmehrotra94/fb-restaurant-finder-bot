@@ -1,0 +1,17 @@
+{
+  "name": "food_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "Vaibhav <vaibhavmehrotra1194@gmail.com>",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^3.2.6",
+    "request": "^2.88.0"
+  }
+}
