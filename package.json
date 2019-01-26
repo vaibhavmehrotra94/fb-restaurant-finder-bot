@@ -6,7 +6,7 @@
   "repository": "",
   "author": "Vaibhav <vaibhavmehrotra1194@gmail.com>",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
